@@ -25,7 +25,7 @@ info: |
   <div class="text-5xl">{</div>
   <div class="w-38 h-38 p-5">
   
-  ![](https://vuejs.org/images/logo.svg)
+  <img src="https://pbs.twimg.com/profile_images/1155903775086977025/DVAmgmCz_400x400.jpg" class="rounded-full">
   
   </div>
   <div class="text-5xl">}</div>
@@ -201,9 +201,9 @@ layout: center
 <div class="flex justify-center">
   <div class="w-50 h-40 p-1 mt-5 flex items-center justify-center">
   <div class="text-5xl">{</div>
-  <div class="w-38 h-38 p-5">
+  <div class="w-38 h-38 p-5 rounded-full">
   
-  ![](https://vuejs.org/images/logo.svg)
+  <img src="https://pbs.twimg.com/profile_images/1155903775086977025/DVAmgmCz_400x400.jpg" class="rounded-full">
   
   </div>
   <div class="text-5xl">}</div>
