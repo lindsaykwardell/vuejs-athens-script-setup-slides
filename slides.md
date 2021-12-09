@@ -186,13 +186,13 @@ layout: center
 layout: center
 ---
 
-<img src="todo-pre-coding.png" class="w-1/2 m-auto">
+<img src="/todo-pre-coding.png" class="w-1/2 m-auto">
 
 ---
 layout: center
 ---
 
-<img src="todo-post-coding.png" class="w-1/2 m-auto">
+<img src="/todo-post-coding.png" class="w-1/2 m-auto">
 
 ---
 layout: center
